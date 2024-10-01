@@ -126,6 +126,13 @@ section button {
     font-size: 12px;
 }
 
+#main-footer {
+    text-align: center;
+    background: #0b0118;
+    color: #fff;
+    padding: 20px;
+  }
+
 @media screen and (max-width:820px) {
     nav {
         margin: 1rem 2rem;
